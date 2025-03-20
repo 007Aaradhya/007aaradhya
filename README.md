@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Aaradhya Agrawal 🌿  
 
-<!--
-**007Aaradhya/007aaradhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Explorer at Heart | Learning Beyond Boundaries**  
 
-Here are some ideas to get you started:
+I’m a **B.Tech student at UPES (2022-2026)** but not someone who just sticks to tech. My journey is about **curiosity, growth, and stepping out of comfort zones**. Right now, I’m diving into **DevOps, automation, and containerized applications**, but my ambitions stretch far beyond that.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don’t see myself as just a tech person—I want a career that’s **dynamic, impactful, and gives me freedom**. I’m open to exploring.  
+
+---
+
+## 🌟 **Who I Am Beyond the Code**  
+
+📚 **B.Tech in Computer Science (2022-2026) | UPES, Dehradun**  
+🌍 **Believe in Independence & Breaking Barriers**  
+🌱 **Spiritual, Disciplined & Growth-Focused**  
+🎯 **Passionate About:** Learning, freedom, deep conversations & making an impact  
+
+---
+
+## 🚀 **Tech & Projects I’ve Explored**  
+
+🔹 **Dockerized Titanic Predictor**  
+
+🔹 **Streamlit + PostgreSQL Setup**  
+
+🔹 **GitHub Actions for FastAPI Deployment**   
+
+---
+
+## 🛠 **Tech Stack & Tools I Work With**  
+
+⚙️ **DevOps & Cloud:** Docker, GitHub Actions, PostgreSQL, Linux  
+
+---
+
+## 📊 **GitHub Activity**  
+
+![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=007Aaradhya&show_icons=true&theme=tokyonight)  
+
+---
+
+🚀 *Not just coding — building a life that truly matters.*  
